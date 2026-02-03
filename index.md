@@ -13,11 +13,12 @@ Wenn du Fragen, Probleme oder Feedback zur App hast, kannst du uns per E-Mail ko
 📧 Support-E-Mail:
 mytt.companion@gmail.com
 
-Bitte gib in deiner Nachricht – wenn möglich – folgende Informationen an:
-	•	Gerät (z. B. iPhone 14, Galaxy s24)
-	•	iOS- oder Android-Version
-	•	App-Version
-	•	Kurze Beschreibung des Problems
+Bitte gib in deiner Nachricht möglichst folgende Informationen an:
+
+    •	Gerät (z. B. iPhone 14, Galaxy s24)  
+	•	iOS- oder Android-Version  
+	•	App-Version  
+	•	Kurze Beschreibung des Problems  
 
 ---
 
